@@ -14,6 +14,22 @@
 		76A7C1C21BA8EC9500116FE9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 76A7C1C01BA8EC9500116FE9 /* LaunchScreen.storyboard */; };
 		76A7C1CD1BA8EC9500116FE9 /* assignment1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76A7C1CC1BA8EC9500116FE9 /* assignment1Tests.swift */; };
 		76A7C1D81BA8EC9500116FE9 /* assignment1UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76A7C1D71BA8EC9500116FE9 /* assignment1UITests.swift */; };
+		76A7C1E61BAA3B1600116FE9 /* CreateAccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76A7C1E51BAA3B1600116FE9 /* CreateAccountViewController.swift */; };
+		76A7C1E81BAA3D2300116FE9 /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76A7C1E71BAA3D2300116FE9 /* SettingsViewController.swift */; };
+		76A7C1EA1BAA3D7100116FE9 /* TermsAndConditionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76A7C1E91BAA3D7100116FE9 /* TermsAndConditionsViewController.swift */; };
+		76A7C1EC1BAA3DB200116FE9 /* SignInRootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76A7C1EB1BAA3DB200116FE9 /* SignInRootViewController.swift */; };
+		76A7C1EE1BAAB98F00116FE9 /* ExistingPhotosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76A7C1ED1BAAB98F00116FE9 /* ExistingPhotosViewController.swift */; };
+		76A7C28C1BACC41200116FE9 /* SignInViewController1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76A7C28B1BACC41200116FE9 /* SignInViewController1.swift */; };
+		76A7C28E1BACC68300116FE9 /* SignInViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76A7C28D1BACC68300116FE9 /* SignInViewController2.swift */; };
+		76A7C2901BACD3BC00116FE9 /* TroubleSigningInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76A7C28F1BACD3BC00116FE9 /* TroubleSigningInViewController.swift */; };
+		76A7C2921BACD7B700116FE9 /* WelcomeViewController1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76A7C2911BACD7B700116FE9 /* WelcomeViewController1.swift */; };
+		76A7C2941BACD91200116FE9 /* CreateAccountViewController1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76A7C2931BACD91200116FE9 /* CreateAccountViewController1.swift */; };
+		76A7C2961BACDECE00116FE9 /* CreateAccountViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76A7C2951BACDECE00116FE9 /* CreateAccountViewController2.swift */; };
+		76A7C2981BACDF9800116FE9 /* CreateViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76A7C2971BACDF9800116FE9 /* CreateViewController3.swift */; };
+		76A7C29A1BACE16600116FE9 /* CreateAccountViewController4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76A7C2991BACE16600116FE9 /* CreateAccountViewController4.swift */; };
+		76A7C29C1BACE29B00116FE9 /* AgreeToTermsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76A7C29B1BACE29B00116FE9 /* AgreeToTermsViewController.swift */; };
+		76A7C29E1BACE37200116FE9 /* CreateAccountViewController5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76A7C29D1BACE37200116FE9 /* CreateAccountViewController5.swift */; };
+		76A7C2A01BACEEBF00116FE9 /* LoggedInSettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 76A7C29F1BACEEBF00116FE9 /* LoggedInSettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +63,22 @@
 		76A7C1D31BA8EC9500116FE9 /* assignment1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = assignment1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		76A7C1D71BA8EC9500116FE9 /* assignment1UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = assignment1UITests.swift; sourceTree = "<group>"; };
 		76A7C1D91BA8EC9500116FE9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		76A7C1E51BAA3B1600116FE9 /* CreateAccountViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateAccountViewController.swift; sourceTree = "<group>"; };
+		76A7C1E71BAA3D2300116FE9 /* SettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		76A7C1E91BAA3D7100116FE9 /* TermsAndConditionsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TermsAndConditionsViewController.swift; sourceTree = "<group>"; };
+		76A7C1EB1BAA3DB200116FE9 /* SignInRootViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignInRootViewController.swift; sourceTree = "<group>"; };
+		76A7C1ED1BAAB98F00116FE9 /* ExistingPhotosViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExistingPhotosViewController.swift; sourceTree = "<group>"; };
+		76A7C28B1BACC41200116FE9 /* SignInViewController1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignInViewController1.swift; sourceTree = "<group>"; };
+		76A7C28D1BACC68300116FE9 /* SignInViewController2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignInViewController2.swift; sourceTree = "<group>"; };
+		76A7C28F1BACD3BC00116FE9 /* TroubleSigningInViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TroubleSigningInViewController.swift; sourceTree = "<group>"; };
+		76A7C2911BACD7B700116FE9 /* WelcomeViewController1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WelcomeViewController1.swift; sourceTree = "<group>"; };
+		76A7C2931BACD91200116FE9 /* CreateAccountViewController1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateAccountViewController1.swift; sourceTree = "<group>"; };
+		76A7C2951BACDECE00116FE9 /* CreateAccountViewController2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateAccountViewController2.swift; sourceTree = "<group>"; };
+		76A7C2971BACDF9800116FE9 /* CreateViewController3.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateViewController3.swift; sourceTree = "<group>"; };
+		76A7C2991BACE16600116FE9 /* CreateAccountViewController4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateAccountViewController4.swift; sourceTree = "<group>"; };
+		76A7C29B1BACE29B00116FE9 /* AgreeToTermsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AgreeToTermsViewController.swift; sourceTree = "<group>"; };
+		76A7C29D1BACE37200116FE9 /* CreateAccountViewController5.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateAccountViewController5.swift; sourceTree = "<group>"; };
+		76A7C29F1BACEEBF00116FE9 /* LoggedInSettingsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoggedInSettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +132,22 @@
 				76A7C1B71BA8EC9500116FE9 /* AppDelegate.swift */,
 				76A7C1B91BA8EC9500116FE9 /* ViewController.swift */,
 				76A7C1BB1BA8EC9500116FE9 /* Main.storyboard */,
+				76A7C29F1BACEEBF00116FE9 /* LoggedInSettingsViewController.swift */,
+				76A7C29D1BACE37200116FE9 /* CreateAccountViewController5.swift */,
+				76A7C29B1BACE29B00116FE9 /* AgreeToTermsViewController.swift */,
+				76A7C2991BACE16600116FE9 /* CreateAccountViewController4.swift */,
+				76A7C2971BACDF9800116FE9 /* CreateViewController3.swift */,
+				76A7C2951BACDECE00116FE9 /* CreateAccountViewController2.swift */,
+				76A7C2931BACD91200116FE9 /* CreateAccountViewController1.swift */,
+				76A7C2911BACD7B700116FE9 /* WelcomeViewController1.swift */,
+				76A7C28F1BACD3BC00116FE9 /* TroubleSigningInViewController.swift */,
+				76A7C28D1BACC68300116FE9 /* SignInViewController2.swift */,
+				76A7C28B1BACC41200116FE9 /* SignInViewController1.swift */,
+				76A7C1ED1BAAB98F00116FE9 /* ExistingPhotosViewController.swift */,
+				76A7C1EB1BAA3DB200116FE9 /* SignInRootViewController.swift */,
+				76A7C1E91BAA3D7100116FE9 /* TermsAndConditionsViewController.swift */,
+				76A7C1E71BAA3D2300116FE9 /* SettingsViewController.swift */,
+				76A7C1E51BAA3B1600116FE9 /* CreateAccountViewController.swift */,
 				76A7C1BE1BA8EC9500116FE9 /* Assets.xcassets */,
 				76A7C1C01BA8EC9500116FE9 /* LaunchScreen.storyboard */,
 				76A7C1C31BA8EC9500116FE9 /* Info.plist */,
@@ -255,8 +303,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				76A7C1E61BAA3B1600116FE9 /* CreateAccountViewController.swift in Sources */,
+				76A7C28E1BACC68300116FE9 /* SignInViewController2.swift in Sources */,
 				76A7C1BA1BA8EC9500116FE9 /* ViewController.swift in Sources */,
+				76A7C29A1BACE16600116FE9 /* CreateAccountViewController4.swift in Sources */,
+				76A7C2921BACD7B700116FE9 /* WelcomeViewController1.swift in Sources */,
+				76A7C1EC1BAA3DB200116FE9 /* SignInRootViewController.swift in Sources */,
 				76A7C1B81BA8EC9500116FE9 /* AppDelegate.swift in Sources */,
+				76A7C2941BACD91200116FE9 /* CreateAccountViewController1.swift in Sources */,
+				76A7C29C1BACE29B00116FE9 /* AgreeToTermsViewController.swift in Sources */,
+				76A7C1EE1BAAB98F00116FE9 /* ExistingPhotosViewController.swift in Sources */,
+				76A7C2981BACDF9800116FE9 /* CreateViewController3.swift in Sources */,
+				76A7C1EA1BAA3D7100116FE9 /* TermsAndConditionsViewController.swift in Sources */,
+				76A7C2A01BACEEBF00116FE9 /* LoggedInSettingsViewController.swift in Sources */,
+				76A7C28C1BACC41200116FE9 /* SignInViewController1.swift in Sources */,
+				76A7C29E1BACE37200116FE9 /* CreateAccountViewController5.swift in Sources */,
+				76A7C1E81BAA3D2300116FE9 /* SettingsViewController.swift in Sources */,
+				76A7C2961BACDECE00116FE9 /* CreateAccountViewController2.swift in Sources */,
+				76A7C2901BACD3BC00116FE9 /* TroubleSigningInViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -419,6 +483,7 @@
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = assignment1Tests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "the-joy-machine.assignment1Tests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -431,6 +496,7 @@
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = assignment1Tests/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "the-joy-machine.assignment1Tests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -481,6 +547,7 @@
 				76A7C1DE1BA8EC9500116FE9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		76A7C1DF1BA8EC9500116FE9 /* Build configuration list for PBXNativeTarget "assignment1Tests" */ = {
 			isa = XCConfigurationList;
@@ -489,6 +556,7 @@
 				76A7C1E11BA8EC9500116FE9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		76A7C1E21BA8EC9500116FE9 /* Build configuration list for PBXNativeTarget "assignment1UITests" */ = {
 			isa = XCConfigurationList;
@@ -497,6 +565,7 @@
 				76A7C1E41BA8EC9500116FE9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
